@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "黒い猫の歌",
+  "base_artist": "back number",
+  "createdAt": "2026-02-10T16:32:25.483056Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "黒い猫の歌",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_黒い猫の歌_back_number.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "黒い猫の歌",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_黒い猫の歌_back_number.txt"
+    }
+  ]
+}
